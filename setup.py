@@ -8,7 +8,7 @@ setup(
     name="pandas_access",
     version="0.0.1",
     packages=["pandas_access"], # Basically, reserve that namespace.
-    license="License :: OSI Approved :: MIT License",
+    license="MIT License",
     author="John Bjorn Nelson",
     author_email="jbn@abreka.com",
     description="A tiny, subprocess-based tool for reading a MS Access database(.rdb) as a Pandas DataFrame.",
